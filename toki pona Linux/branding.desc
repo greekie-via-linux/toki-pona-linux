@@ -1,0 +1,29 @@
+---
+componentName: toki pona Linux
+
+windowExpanding:    fullscreen
+
+strings:
+    productName:         toki pona Linux
+    shortProductName:    toki pona Linux
+    version:             1.0.0
+    shortVersion:        a
+    versionedName:       toki pona Linux
+    shortVersionedName:  toki pona Linux "a"
+    bootloaderEntryName: tokiponaLinux
+    productUrl:          https://github.com/greekie-via-linux/toki-pona-linux
+    supportUrl:          https://discord.gg/Mnz6gbZUS3
+
+images:
+    productLogo:         "logo.png"
+    productIcon:         "logo.png"
+    productWelcome:      "welcome.png"
+
+slideshow:               "show.qml"
+
+slideshowAPI:            1
+
+style:
+   SidebarBackground:    "#8800FF"
+   SidebarText:          "#000000"
+   SidebarTextCurrent:   "#888888"
